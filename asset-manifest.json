@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.bdc485cf.chunk.css",
-    "main.js": "/static/js/main.1a840d3a.chunk.js",
-    "main.js.map": "/static/js/main.1a840d3a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.40ed1330.js",
-    "runtime-main.js.map": "/static/js/runtime-main.40ed1330.js.map",
-    "static/js/2.e88b1852.chunk.js": "/static/js/2.e88b1852.chunk.js",
-    "static/js/2.e88b1852.chunk.js.map": "/static/js/2.e88b1852.chunk.js.map",
-    "static/js/3.8fb7ef9e.chunk.js": "/static/js/3.8fb7ef9e.chunk.js",
-    "static/js/3.8fb7ef9e.chunk.js.map": "/static/js/3.8fb7ef9e.chunk.js.map",
-    "static/js/4.640ed504.chunk.js": "/static/js/4.640ed504.chunk.js",
-    "static/js/4.640ed504.chunk.js.map": "/static/js/4.640ed504.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.bdc485cf.chunk.css.map": "/static/css/main.bdc485cf.chunk.css.map",
-    "static/js/2.e88b1852.chunk.js.LICENSE.txt": "/static/js/2.e88b1852.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/slide3.67313050.jpg",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/shoos/static/css/main.32bf6ac2.chunk.css",
+    "main.js": "/shoos/static/js/main.76c77b4f.chunk.js",
+    "main.js.map": "/shoos/static/js/main.76c77b4f.chunk.js.map",
+    "runtime-main.js": "/shoos/static/js/runtime-main.4a912fe7.js",
+    "runtime-main.js.map": "/shoos/static/js/runtime-main.4a912fe7.js.map",
+    "static/js/2.e88b1852.chunk.js": "/shoos/static/js/2.e88b1852.chunk.js",
+    "static/js/2.e88b1852.chunk.js.map": "/shoos/static/js/2.e88b1852.chunk.js.map",
+    "static/js/3.8fb7ef9e.chunk.js": "/shoos/static/js/3.8fb7ef9e.chunk.js",
+    "static/js/3.8fb7ef9e.chunk.js.map": "/shoos/static/js/3.8fb7ef9e.chunk.js.map",
+    "static/js/4.640ed504.chunk.js": "/shoos/static/js/4.640ed504.chunk.js",
+    "static/js/4.640ed504.chunk.js.map": "/shoos/static/js/4.640ed504.chunk.js.map",
+    "index.html": "/shoos/index.html",
+    "static/css/main.32bf6ac2.chunk.css.map": "/shoos/static/css/main.32bf6ac2.chunk.css.map",
+    "static/js/2.e88b1852.chunk.js.LICENSE.txt": "/shoos/static/js/2.e88b1852.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/shoos/static/media/slide3.67313050.jpg",
+    "static/media/logo.6ce24c58.svg": "/shoos/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.40ed1330.js",
+    "static/js/runtime-main.4a912fe7.js",
     "static/js/2.e88b1852.chunk.js",
-    "static/css/main.bdc485cf.chunk.css",
-    "static/js/main.1a840d3a.chunk.js"
+    "static/css/main.32bf6ac2.chunk.css",
+    "static/js/main.76c77b4f.chunk.js"
   ]
 }
